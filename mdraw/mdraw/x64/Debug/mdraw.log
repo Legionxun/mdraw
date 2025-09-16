@@ -1,0 +1,121 @@
+﻿  pch.cpp
+  BorderWidthDialog.cpp
+  CShape.cpp
+  MainFrm.cpp
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\setAngleDlg.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(72,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(207,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(235,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(435,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(446,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(523,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(538,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(570,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(583,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(616,12): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(639,26): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(640,26): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(672,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(719,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(748,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(848,102): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(928,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(1013,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(1016,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(1019,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(1023,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(1025,21): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(1026,21): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.cpp(1035,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/CShape.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/MainFrm.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\setAngleDlg.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/MainFrm.cpp”)
+  
+  mdraw.cpp
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/mdraw.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\setAngleDlg.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/mdraw.cpp”)
+  
+  mdrawDoc.cpp
+  mdrawView.cpp
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/mdrawView.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\setAngleDlg.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/mdrawView.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\mdrawView.cpp(113,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/mdrawView.cpp”)
+  
+  setAngleDlg.cpp
+D:\Cpp Source\mdraw\mdraw\mdraw\setAngleDlg.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Cpp Source\mdraw\mdraw\mdraw\setAngleDlg.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/setAngleDlg.cpp”)
+  
+  setDlg.cpp
+D:\Cpp Source\mdraw\mdraw\mdraw\CShape.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/setDlg.cpp”)
+  
+D:\Cpp Source\mdraw\mdraw\mdraw\setAngleDlg.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/setDlg.cpp”)
+  
+  正在生成代码...
+  mdraw.vcxproj -> D:\Cpp Source\mdraw\mdraw\x64\Debug\mdraw.exe
